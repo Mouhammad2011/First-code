@@ -5,7 +5,7 @@
     <titel>Lets code together</titel>
   </head>
   <body>
-    <h1>I do want to say the n-word but you gotta be smart to understand how i did it</h1>
-    <p>Im gonna say it 28g31</p>
+    <h1>YAAAAAAAAAAAAAAAAAAAAAY I can code now</h1>
+    <p>but not that much</p>
   </body>
 </html>
